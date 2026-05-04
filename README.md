@@ -18,9 +18,15 @@ supplier performance, warehouse utilization, and reorder strategies.
 -Average Lead Time
 -Stock Distribution by Country and Category
 
+## Key Insights
 ## Pages included in the report
 ### Inventory Overview
 This overview page tracks stock status, total inventory value, products and identifying the supplier with the highest average lead time. Track items below the reorder point and total required order quantities using KPI cards.
+-The Out of Stock Risk Category shows that 27.98% of products are classified as "High" risk due to long lead times.
+-Supplier SUP041 holds the highest average lead time at 17.3 days which may impact the speed of restocking high-risk items.
+-Home & Garden represents the largest stock at 0.38M units, while the Electronics category maintains the leanest stock level at 0.33M units.
+-Product-ID such as SKU004788 and SKU003778 which have high "Stock Below Reorder" counts and need to order large quantities to stabilize.
+
 
 ### Inventory Performance & Risk Analysis
 Monitors monthly total stock trends by comparing current and previous year data. And it evaluates inventory segmentation by breaking down stock levels across turnover categorie. Additionally, the restock risk analysis tracks days since the last restock to prevent shortages.
@@ -29,7 +35,6 @@ Monitors monthly total stock trends by comparing current and previous year data.
 Shows total stock distribution by category and country and decribes the warehouse with the highest product storage. Indicates the warehouse Inventory overview by using Heatmap. 
 
 ## Key Insights
-Pages included in the report
 -Monthly sales, product and revenue trends show consistent growth toward the end of the year 2022.  
 -Electronics category has the highest profit margin (46%).  
 -Downtown stores generate the highest revenue among all locations.    
