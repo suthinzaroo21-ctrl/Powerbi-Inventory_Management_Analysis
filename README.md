@@ -33,10 +33,13 @@ Shows total stock distribution by category and country and decribes the warehous
 -The Out of Stock Risk Category shows that 27.98% of products are classified as "High" risk due to long lead times.  
 -Supplier SUP041 holds the highest average lead time at 17.3 days which may impact the speed of restocking high-risk items.  
 -Home & Garden represents the largest stock at 0.38M units, while the Electronics category maintains the leanest stock level at 0.33M units.  
--Product-ID such as SKU004788 and SKU003778 which have high "Stock Below Reorder" counts and need to order large quantities to stabilize. 
+-Product-ID such as SKU004788 and SKU003778 which have high "Stock Below Reorder" counts and need to order large quantities to stabilize.
 
 ### Inventory Performance & Risk Analysis 
 -Office Supplies and Electronics having the highest lead times at 15.2 days.  
--SKU003190 and SKU003656, as High Risk due to over 1,000 days passing since their last restock.  
+-Product Turnover risk categorys indicates which product has the fast, medium, slow moving related to days since the last restock.
 -Monthly Inventory Trend is more volatile whith higher peaks in May and October.(We need to address the irregular supply and demand fluctuations)  
 -Mid turnover category is 1.14M units, while "Fast" and "Slow" moving categories each hold 0.68M units.
+
+### Warehouse Analysis
+-Storage locations A-02-S-01 and A-13-S-17 are currently operating at maximum capacity as slow-moving within high-density warehouse zones.  
