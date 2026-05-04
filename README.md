@@ -7,16 +7,16 @@ supplier performance, warehouse utilization, and reorder strategies.
 
 ## Dashboard Analysis
 ## KPIs included
--Total stock quantity
--Total inventory value
--Totat product performance
--Below reorder point
--Inventory by supplier and warehouse
--Total order quantity require
--Monthly inventory trends
--Average Turnover Effiency 
--Average Lead Time
--Stock Distribution by Country and Category
+-Total stock quantity  
+-Total inventory value  
+-Totat product performance  
+-Below reorder point  
+-Inventory by supplier and warehouse  
+-Total order quantity require  
+-Monthly inventory trends  
+-Average Turnover Effiency   
+-Average Lead Time  
+-Stock Distribution by Country and Category  
 
 ## Key Insights
 ## Pages included in the report
