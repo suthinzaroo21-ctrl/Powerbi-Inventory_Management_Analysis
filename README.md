@@ -42,5 +42,5 @@ Shows total stock distribution by category and country and decribes the warehous
 -Mid turnover category is 1.14M units, while "Fast" and "Slow" moving categories each hold 0.68M units.
 
 ### Warehouse Analysis
--Storage locations A-02-S-01 and A-13-S-17 are currently operating at maximum capacity as slow-moving within high-density warehouse zones.
+-Storage locations A-02-S-01 and A-13-S-17 are currently operating at maximum capacity as slow-moving within high-density warehouse zones.  
 -The heatmap highlights warehouse storage utilization by showing high, medium, and low stock concentrations across shelves and aisle.
