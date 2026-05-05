@@ -44,3 +44,5 @@ Shows total stock distribution by category and country and decribes the warehous
 ### Warehouse Analysis
 -Storage locations A-02-S-01 and A-13-S-17 are currently operating at maximum capacity as slow-moving within high-density warehouse zones.  
 -The heatmap highlights warehouse storage utilization by showing high, medium, and low stock concentrations across shelves and aisle.
+-Inventory distribution across warehouse locations is imbalanced.  High stock concentration in slow-moving categories increases holding costs and may lead to excess inventory risk. Some aisles and shelves contain significantly higher quantities of slow-moving inventory, indicating uneven warehouse utilization and potential overstock situations.
+
