@@ -2,8 +2,7 @@
 Tools: Power BI, Excel
 
 ## Project Objective
-This Power BI dashboard presents inventory management insights, including stock levels, products performance, inventory value,  
-supplier performance, warehouse utilization, and reorder strategies.  
+This Power BI dashboard presents inventory management insights, including stock levels, products performance, inventory value,supplier performance, warehouse utilization, and reorder strategies.  
 
 ## Dashboard Analysis
 ## KPIs included
